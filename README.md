@@ -1,2 +1,5 @@
 # hello-world
-First beginning of Git 
+
+Hi,
+
+ronroom here, and this my stories begin 
